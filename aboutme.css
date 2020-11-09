@@ -1,12 +1,24 @@
+body
+{
+padding: 5% 20% 10% 10.5% ;
+  
+
+font-family: "Times New Roman", Times, serif;
+  
+background: #f7f7f7;
+
+}
+hr
+
+
+
+h1,
+
 .aboutme {
   width: 50%;
   border:solid 5px #EB984E;
   margin: auto;
   padding: 10px;
-  background-color: #F5EEF8;
+  background-color: #F5EEF8;}
 
-}
-
-{
-.back ground-color: #FDEBD0; 
-}
+  }
