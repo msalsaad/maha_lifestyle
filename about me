@@ -1,8 +1,9 @@
-echo "# maha_lifestyle" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/msalsaad/maha_lifestyle.git
-git push -u origin main
-                
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About me</h1>
+<p>Here you will join me in my journey to have when we can enjoy delicious food, travel around the world and explore the cultures.</p>
+
+</body>
+</html>
